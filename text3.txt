@@ -1,0 +1,4 @@
+A,4;Ant,rien;Succ,B
+B,1;Ant,A;Succ,C
+C,2;Ant,B;Succ,D
+D,3;Ant,C;Succ,rien

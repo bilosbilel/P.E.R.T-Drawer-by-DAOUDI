@@ -1,0 +1,5 @@
+#include "resources.h"
+IDI_SIGMA_MAIN_ICON     ICON    DISCARDABLE     "Sigma_main_icon.ico"
+BALLBMP BITMAP "ball.bmp"
+IDI_ICON ICON "icon.ico"
+//MASKBMP BITMAP "ballmask.bmp"
